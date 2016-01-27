@@ -4,7 +4,7 @@ civicrm_wide_theme
 A full width theme for CiviCRM with a left sidebar
 
 **Install**
-Put theme files in ../sites/all/themes/
+Clone this project into ../sites/all/themes/civicrm_wide_theme
 
 **2 Steps fixing (If found)**
 
